@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Permanent Researcher at KTH Royal Institute of Technology
+subtitle: Permanent Researcher at KTH Royal Institute of Technology | Senior Member, IEEE
 profile:
   align: right
   image: sajaddaei_image.jpeg
