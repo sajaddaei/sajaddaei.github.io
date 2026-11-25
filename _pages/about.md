@@ -8,11 +8,6 @@ profile:
   align: right
   image: sajaddaei_image.jpeg
   image_circular: false
-  more_info: >
-    <p>KTH Royal Institute of Technology</p>
-    <p>Stockholm, Sweden</p>
-selected_papers: false
-social: false
 
 announcements:
   enabled: false
