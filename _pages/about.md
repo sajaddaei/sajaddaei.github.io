@@ -38,8 +38,11 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
 - MULTIPLY-6G — KTH Co-Principal Investigator
 - QUEST-6G — KTH Co-Principal Investigator and WP4 Leader
 
-## Selected Awards
+## Selected Honours and Distinctions
 
+- IEEE Senior Member, 2026
 - IEEE SPAWC 2026 Best Paper Award
 - IEEE GLOBECOM 2025 Best Proposal for Industry Research Collaboration
 - IEEE Iran Section Outstanding Ph.D. Thesis Award, 2020
+- Third Place, First Round of the Iranian National Student Scientific Olympiad in Electrical Engineering, 2011
+- First Rank among 68 Electrical Engineering students, University of Guilan, 2011
