@@ -21,7 +21,11 @@ Stockholm, Sweden, and a Senior Member of IEEE. My research lies at the intersec
 
 I am particularly interested in developing mathematical foundations and computational methods for recovering information from incomplete, noisy, and uncertain measurements. My research spans compressed sensing, continuous-domain super-resolution, blind inference, near-field sensing, and intelligent wireless systems.
 
-I currently serve as KTH Co-Principal Investigator and institutional coordinator of two Horizon Europe projects, MULTIPLY-6G and QUEST-6G, and lead Work Package 4 of QUEST-6G.
+I currently serve as KTH Co-Principal Investigator and
+institutional coordinator of two Horizon Europe projects,
+[MULTIPLY-6G](https://multiply-6g.eu/) and
+[QUEST-6G](https://quest6g.eu/), and lead Work Package 4
+of QUEST-6G.
 
 Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. I received my Ph.D. in Telecommunications Engineering from Iran University of Science and Technology in 2020.
 
@@ -35,8 +39,8 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
 
 ## Research Projects
 
-- MULTIPLY-6G — KTH Co-Principal Investigator
-- QUEST-6G — KTH Co-Principal Investigator and WP4 Leader
+- [MULTIPLY-6G](https://multiply-6g.eu/) — KTH Co-Principal Investigator and institutional coordinator.
+- [QUEST-6G](https://quest6g.eu/) — KTH Co-Principal Investigator, institutional coordinator, and Work Package 4 Leader.
 
 ## Selected Honours and Distinctions
 
@@ -46,8 +50,8 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
 - IEEE Iran Section Outstanding Ph.D. Thesis Award, 2020
 - Third Place, First Round of the Iranian National Student Scientific Olympiad in Electrical Engineering, 2011
 - First Rank among 68 Electrical Engineering students, University of Guilan, 2011
-- ## Academic Service and Leadership
+## Academic Service and Leadership
 
-- Technical Program Committee (TPC) Chair, IEEE Vehicular Technology Conference (VTC), Japan.
-- Work Package 4 Leader, QUEST-6G.
-- KTH Co-Principal Investigator and institutional coordinator of QUEST-6G and MULTIPLY-6G.
+- TPC Track Chair, Signal Processing for Wireless Communications, [IEEE VTC2027-Fall](https://events.vtsociety.org/vtc2027-fall/), Osaka, Japan.
+- Work Package 4 Leader, [QUEST-6G](https://quest6g.eu/).
+- KTH Co-Principal Investigator and institutional coordinator of [QUEST-6G](https://quest6g.eu/) and [MULTIPLY-6G](https://multiply-6g.eu/).
