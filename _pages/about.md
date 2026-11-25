@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at KTH Royal Institute of Technology
-
+subtitle: Permanent Researcher at KTH Royal Institute of Technology
 profile:
   align: right
   image: sajaddaei_image.jpeg
