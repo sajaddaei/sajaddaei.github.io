@@ -46,3 +46,8 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
 - IEEE Iran Section Outstanding Ph.D. Thesis Award, 2020
 - Third Place, First Round of the Iranian National Student Scientific Olympiad in Electrical Engineering, 2011
 - First Rank among 68 Electrical Engineering students, University of Guilan, 2011
+- ## Academic Service and Leadership
+
+- Technical Program Committee (TPC) Chair, IEEE Vehicular Technology Conference (VTC), Japan.
+- Work Package 4 Leader, QUEST-6G.
+- KTH Co-Principal Investigator and institutional coordinator of QUEST-6G and MULTIPLY-6G.
