@@ -9,7 +9,7 @@ profile:
   image: sajaddaei_image.jpeg
   image_circular: false
 social: true
-selected_papers: false
+selected_papers: true
 announcements:
   enabled: false
 
