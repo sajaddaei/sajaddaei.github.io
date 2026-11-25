@@ -16,12 +16,13 @@ latest_posts:
   enabled: false
 ---
 
-I am a researcher at KTH Royal Institute of Technology
-in Stockholm, Sweden.
+I am a permanent researcher at KTH Royal Institute of Technology, Stockholm, Sweden. My research lies at the intersection of applied mathematics, statistical signal processing, inverse problems, optimization, and artificial intelligence.
 
-My research focuses on the mathematical foundations of
-signal processing, inverse problems, optimization,
-and intelligent wireless systems.
+I am particularly interested in developing mathematical foundations and computational methods for recovering information from incomplete, noisy, and uncertain measurements. My research spans compressed sensing, continuous-domain super-resolution, blind inference, near-field sensing, and intelligent wireless systems.
+
+I currently serve as KTH Co-Principal Investigator and institutional coordinator of two Horizon Europe projects, MULTIPLY-6G and QUEST-6G, and lead Work Package 4 of QUEST-6G.
+
+Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. I received my Ph.D. in Telecommunications Engineering from Iran University of Science and Technology in 2020.
 
 ## Research Interests
 
