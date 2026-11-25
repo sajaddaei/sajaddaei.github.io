@@ -16,7 +16,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a permanent researcher at KTH Royal Institute of Technology, Stockholm, Sweden. My research lies at the intersection of applied mathematics, statistical signal processing, inverse problems, optimization, and artificial intelligence.
+I am a permanent researcher at KTH Royal Institute of Technology,
+Stockholm, Sweden, and a Senior Member of IEEE. My research lies at the intersection of applied mathematics, statistical signal processing, inverse problems, optimization, and artificial intelligence.
 
 I am particularly interested in developing mathematical foundations and computational methods for recovering information from incomplete, noisy, and uncertain measurements. My research spans compressed sensing, continuous-domain super-resolution, blind inference, near-field sensing, and intelligent wireless systems.
 
