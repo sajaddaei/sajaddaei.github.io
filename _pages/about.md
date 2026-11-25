@@ -8,7 +8,8 @@ profile:
   align: right
   image: sajaddaei_image.jpeg
   image_circular: false
-
+social: true
+selected_papers: false
 announcements:
   enabled: false
 
