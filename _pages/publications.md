@@ -18,3 +18,18 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+<style>
+#daei2026living > .title::before {
+  content: "🏆 IEEE SPAWC 2026 Best Paper Award";
+  display: block;
+  width: fit-content;
+  color: #926200;
+  background: #fff3cd;
+  border: 1px solid #e9c46a;
+  border-radius: 6px;
+  padding: 3px 10px;
+  margin-bottom: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+</style>
