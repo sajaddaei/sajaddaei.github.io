@@ -43,7 +43,7 @@
   <span class="na">pages</span> <span class="p">=</span> <span class="s">{6620--6632}</span><span class="p">,</span>
   <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1109/TIT.2019.2920640}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <div class="social"> <div class="contact-icons"> <a href="https://scholar.google.com/citations?user=piM5xhQAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="https://github.com/sajaddaei" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> </div> <div class="contact-note">Please contact me via my KTH email for research collaborations and academic enquiries. </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Sajad Daei. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <div class="social"> <div class="contact-icons"> <a href="https://scholar.google.com/citations?user=piM5xhQAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="https://github.com/sajaddaei" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> <a href="https://orcid.org/0000-0001-6866-6595" title="Orcid id" rel="external nofollow noopener" target="_blank"><i class="ai ai-orcid"></i></a> <a href="https://www.kth.se/profile/sajado" title="Work url" rel="external nofollow noopener" target="_blank"><i class="fa-solid fa-briefcase"></i></a> <a href="mailto:sajado@kth.se" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="/assets/pdf/Sajad_Daei_CV.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> </div> <div class="contact-note">Please contact me via my KTH email for research collaborations and academic enquiries. </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Sajad Daei. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
@@ -95,6 +95,34 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/sajaddaei", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-6866-6595", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kth.se/profile/sajado", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%73%61%6A%61%64%6F@%6B%74%68.%73%65", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/Sajad_Daei_CV.pdf", "_blank");
         },
       },{
       id: 'light-theme',
