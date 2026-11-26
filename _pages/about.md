@@ -70,3 +70,10 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
   font-weight: 700;
 }
 </style>
+## Talks and Presentations
+
+Selected conference presentations, workshop talks
+and research seminars, including the award-winning
+GOOD SENSE proposal at IEEE GLOBECOM 2025.
+
+[Explore talks and presentation slides](/talks/)
