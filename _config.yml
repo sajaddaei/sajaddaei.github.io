@@ -41,7 +41,7 @@ protect_email: false
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
 # image 404s. The project itself is still open source and free — self-host it and
-# point external_services.github_profile_trophy_url at your instance, then set
+# point external_ices.github_profile_trophy_url at your instance, then set
 # enabled: true. See docs/CUSTOMIZE.md.
 repo_trophies:
   enabled: false
@@ -110,8 +110,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
