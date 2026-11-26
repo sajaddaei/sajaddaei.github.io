@@ -55,3 +55,18 @@ Before joining KTH in 2022, I was a postdoctoral researcher at EURECOM, France. 
 - TPC Track Chair, Signal Processing for Wireless Communications, [IEEE VTC2027-Fall](https://events.vtsociety.org/vtc2027-fall/), Osaka, Japan.
 - Work Package 4 Leader, [QUEST-6G](https://quest6g.eu/).
 - KTH Co-Principal Investigator and institutional coordinator of [QUEST-6G](https://quest6g.eu/) and [MULTIPLY-6G](https://multiply-6g.eu/).
+<style>
+#daei2026living > .title::before {
+  content: "🏆 IEEE SPAWC 2026 Best Paper Award";
+  display: block;
+  width: fit-content;
+  color: #926200;
+  background: #fff3cd;
+  border: 1px solid #e9c46a;
+  border-radius: 6px;
+  padding: 3px 10px;
+  margin-bottom: 6px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+</style>
