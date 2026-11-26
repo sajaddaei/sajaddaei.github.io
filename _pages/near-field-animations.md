@@ -26,12 +26,12 @@ nav: false
   <div class="sa-intro">
     <p class="sa-kicker">Near-field communications &amp; sensing</p>
     <h2>When Near Becomes Far</h2>
-    <p>Two animated slides from <em>From Rayleigh to Optimal Near/Far-Field Boundaries</em>. Explore the original frame sequences at their presentation speeds, with play, pause, scrubbing and fullscreen viewing.</p>
-    <p style="margin-bottom:0"><a href="https://arxiv.org/abs/2505.07743">Related research paper</a> &nbsp;·&nbsp; <a href="{{ '/talks/' | relative_url }}">All talks and presentations</a></p>
+    <p>Two animated slides from <em>From Rayleigh to Optimal Near/Far-Field Boundaries</em>. Both original animations play automatically when supported by your browser. Use the controls to pause, replay, seek or enter fullscreen.</p>
+    <p style="margin-bottom:0"><a href="{{ '/assets/pdf/GLOBECOM_2025_Near_Far_Field.pdf' | relative_url }}">Full presentation (PDF)</a> &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2505.07743">Related research paper</a> &nbsp;·&nbsp; <a href="{{ '/talks/' | relative_url }}">All talks and presentations</a></p>
   </div>
   <article class="sa-card" id="slide-5">
     <div class="sa-copy"><p class="sa-meta">Slide 5 · 6 seconds · 60 frames · 10 fps</p><h2>Boundary depends on the metric</h2><p>The moving user crosses metric-dependent transition boundaries. The original slide illustrates the near-field, transition and within-tolerance regions for the same geometry.</p></div>
-    <video controls playsinline loop preload="none" poster="{{ '/assets/video/metric-dependent-boundaries.webp' | relative_url }}" aria-label="Boundary depends on the metric">
+    <video autoplay muted controls playsinline loop preload="metadata" poster="{{ '/assets/video/metric-dependent-boundaries.webp' | relative_url }}" aria-label="Boundary depends on the metric">
       <source src="{{ '/assets/video/metric-dependent-boundaries.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support embedded video. Use the MP4 link below.
     </video>
@@ -39,7 +39,7 @@ nav: false
   </article>
   <article class="sa-card" id="slide-12">
     <div class="sa-copy"><p class="sa-meta">Slide 12 · 24 seconds · 120 frames · 5 fps</p><h2>Two Links, Three Metrics: Walking Through the Near–Far Transition</h2><p>Two links at 10 GHz with 5 and 64 receive antennas. Follow the changing distance and the element-wise mismatch, normalized ℓ₂ mismatch and spectral-efficiency loss as the user moves across the boundaries.</p></div>
-    <video controls playsinline loop preload="none" poster="{{ '/assets/video/two-links-three-metrics.webp' | relative_url }}" aria-label="Two Links, Three Metrics: Walking Through the Near–Far Transition">
+    <video autoplay muted controls playsinline loop preload="metadata" poster="{{ '/assets/video/two-links-three-metrics.webp' | relative_url }}" aria-label="Two Links, Three Metrics: Walking Through the Near–Far Transition">
       <source src="{{ '/assets/video/two-links-three-metrics.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support embedded video. Use the MP4 link below.
     </video>
