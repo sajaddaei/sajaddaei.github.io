@@ -53,10 +53,7 @@
 } /* Generic.Output */
 .highlight .gp {
   color: #555555;
-} /* Generic.Prompt */
-.highlight .gs {
-  font-weight: bold;
-} /* Generic.Strong */
+} /* Generic.Prompt */ /* Generic.Strong */
 .highlight .gu {
   color: #aaaaaa;
 } /* Generic.Subheading */

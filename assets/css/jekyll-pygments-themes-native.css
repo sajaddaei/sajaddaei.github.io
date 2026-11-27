@@ -67,11 +67,7 @@
 } /* Generic.Output */
 .highlight .gp {
   color: #aaaaaa;
-} /* Generic.Prompt */
-.highlight .gs {
-  color: #d0d0d0;
-  font-weight: bold;
-} /* Generic.Strong */
+} /* Generic.Prompt */ /* Generic.Strong */
 .highlight .gu {
   color: #ffffff;
   text-decoration: underline;
