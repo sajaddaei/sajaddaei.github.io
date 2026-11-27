@@ -125,7 +125,7 @@ analytics:
   cronitor: # cronitor RUM analytics site ID (format: XXXXXXXXX)
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
-  cloudflare: <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fb8f11cf59534289a99917ee8d6dd668"}'></script><!-- End Cloudflare Web Analytics -->
+  cloudflare: fb8f11cf59534289a99917ee8d6dd668
 enable_simple_analytics: false # Simple Analytics identifies a site by its domain, so it has no ID to set above
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
