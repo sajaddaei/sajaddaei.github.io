@@ -78,11 +78,7 @@
 .highlight .kp {
   color: #000000;
   font-weight: bold;
-} /* Keyword.Pseudo */
-.highlight .kr {
-  color: #000000;
-  font-weight: bold;
-} /* Keyword.Reserved */
+} /* Keyword.Pseudo */ /* Keyword.Reserved */
 .highlight .kt {
   color: #445588;
   font-weight: bold;
